@@ -6,6 +6,8 @@ First, install package:
 
 ```bash
 npm install
+or
+yarn add
 ```
 
 Then, run the development server:
